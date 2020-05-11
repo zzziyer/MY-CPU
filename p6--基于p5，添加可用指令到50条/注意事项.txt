@@ -1,0 +1,5 @@
+信号！位宽
+reg一定初始为0
+添加指令的时候考虑其暂停（加入指令分类）转发（考虑其用什么寄存器）
+
+java -jar Mars_debug_v4.jar mips2.asm db mc CompactDataAtZero
